@@ -27,7 +27,8 @@ This is a **real-world financial analytics project** built in Excel using a data
 This project is designed to demonstrate **data storytelling**, **insight generation**, and **dashboard design skills** — especially for roles in **finance, productivity analytics, or consulting**.
 
 ---
-📎 Dataset: <a href = "https://www.kaggle.com/datasets/khushikyad001/personal-finance-tracker-dataset"> 
+📎 Dataset: <a href = "https://www.kaggle.com/datasets/khushikyad001/personal-finance-tracker-dataset"> DataSet</a>
 
 
-📎 Dashboard: <a href = "https://github.com/alina-khan-1/Excel-Personal-Finance-Trackerr/blob/main/Personal%20Finance%20Tracker.xlsx">
+📎 Dashboard: <a href = "https://github.com/alina-khan-1/Excel-Personal-Finance-Trackerr/blob/main/Personal%20Finance%20Tracker.xlsx"> Excel-Dasboard</a>
+
